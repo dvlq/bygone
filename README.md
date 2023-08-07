@@ -9,3 +9,5 @@ public static extern int InjectW(string dllpath, int ProcID);
 ```
 
 Celestial skidded from GuidedHacking btw :)
+
+GPL V3 LICENSE!
