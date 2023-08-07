@@ -2,6 +2,13 @@
 Leaked on purpose<br>
 I want roblox to patch this.
 
+# How to not get banned testing this:
+- Copy your NTUSER.DAT file, to do that create a new profile on windows<br> log into it and then go to C:\Users\useryouwanttobackup\ and press show hidden files, copy it so you can back it up when u get banned
+- DO NOT FUCKING OPEN SHIT LIKE EXTREME INJECTOR OMFG
+# I think I got hwid banned help
+- log into the new windows profile you made and replace the banned ntuser.dat with the old one
+- if that didnt help try reinstalling or even spoofing( https://secwin.lol/spoofer.exe )
+
 To use import function InjectW like this(C# Example)
 ```c#
 [DllImport("injector.dll", CallingConvention = CallingConvention.StdCall)]
