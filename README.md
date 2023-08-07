@@ -8,7 +8,7 @@ I want roblox to patch this.
 # I think I got hwid banned help
 - log into the new windows profile you made and replace the banned ntuser.dat with the old one
 - if that didnt help try reinstalling or even spoofing( https://secwin.lol/spoofer.exe )
-
+# How to use the dll
 To use import function InjectW like this(C# Example)
 ```c#
 [DllImport("injector.dll", CallingConvention = CallingConvention.StdCall)]
